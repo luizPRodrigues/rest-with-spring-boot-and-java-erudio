@@ -3,5 +3,7 @@
 .classpath
 .project
 .settings
+HELP.md
+mvnw
+Mvnw.cmd
 
-# SSH Keys
