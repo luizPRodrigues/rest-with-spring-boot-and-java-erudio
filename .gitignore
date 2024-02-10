@@ -6,5 +6,5 @@
 HELP.md
 mvnw
 Mvnw.cmd
-.mvn/*
+.mvn/wrapper
 
